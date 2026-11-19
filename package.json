@@ -1,6 +1,6 @@
 {
   "name": "build-report",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Zero-dependency node scripts: bundle size analysis report (analysis) + dist cleaner (clean).",
   "type": "module",
   "license": "MIT",
@@ -30,10 +30,15 @@
   },
   "keywords": [
     "build",
+    "bundle-size",
     "bundle",
     "analysis",
     "report",
-    "clean"
+    "clean",
+    "rollup",
+    "webpack",
+    "vite",
+    "visualizer"
   ],
   "engines": {
     "node": ">=16"
